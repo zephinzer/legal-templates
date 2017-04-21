@@ -1,0 +1,26 @@
+{
+  "name": "legal-templates",
+  "version": "1.0.0",
+  "description": "Collection of easy to use/customise legal documents targetted at developers, makers and startups.",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephinzer/legal-templates.git"
+  },
+  "author": "zephinzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zephinzer/legal-templates/issues"
+  },
+  "homepage": "https://github.com/zephinzer/legal-templates#readme",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "moment": "^2.18.1",
+    "next": "^2.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
