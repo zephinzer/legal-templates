@@ -14,3 +14,7 @@ release products where such legal documents are required.
 ## Contributing
 I use React with Next to render the legal templates. See existing templates to create
 your own. Fork this repository, add your document/components and create a pull request.
+
+To run this, clone the repository, run `yarn install` or `npm install` and do an `npm start`.
+The website should be available at `http://localhost:3000` with an index of links to the 
+pages which can be found in the `/pages` folder.
